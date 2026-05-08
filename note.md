@@ -243,7 +243,7 @@ enum4linux -a 192.168.56.106
 ### Findings: <br>
 
 NetBIOS Info: Name: METASPLOITABLE Workgroup: WORKGROUP, MAC: 00-00-00-00-00-00 <br>
-Users: administrator, guest, root, bin, mfsadmin, and ~40 more <br>
+Users: games, nobody, bind, proxy, syslog, user, www-data, root, msfadmin, etc <br>
 Groups: Domain Admins, Domain Users, Domain Guests <br>
 SMB Shares: print$, tmp, opt, IPC$, ADMIN$ 
 
