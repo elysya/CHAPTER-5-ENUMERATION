@@ -215,17 +215,17 @@ nmap --script smb-enum-users -p445  192.168.56.106
 ### Findings: <br>
 
 OS / Samba Version: Samba 3.0.20-Debian <br>
-Domain/Workgroup: WORKGROUP <br>
+Domain/Workgroup: localdomain <br>
 List of Users: 
+* backup
+* bin
+* daemon
 * games
-* nobody
-* bind
-* proxy
-* syslog
-* user
-* www-data
-* root
-* msfadmin
+* Gnats Bug-Reporting System (admin)
+* ircd
+* Mailing List Manager
+* lp
+* mail
 * etc
 
 ---
