@@ -239,6 +239,7 @@ enum4linux -a 192.168.56.106
 ![report](images/challenge12.png)
 ![report](images/2challenge12.png)
 ![report](images/3challenge12.png)
+![report](images/4challenge12.jpg)
 
 ### Findings: <br>
 
