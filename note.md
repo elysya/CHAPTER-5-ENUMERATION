@@ -134,7 +134,7 @@ Reply from 192.168.56.106: ttl=64 -> Linux
 ## 6. Challenge 6 - Anonymous LDAP Query
 
 ```
-ldapsearch -x -H ldap://<IP> -b "dc=metasploit,dc=local"
+ldapsearch -x -H ldap://<IP> -b "dc=metasploitable,dc=local"
 ```
 
 ![report](images/upchallenge6.png)
