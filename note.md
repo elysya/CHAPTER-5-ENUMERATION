@@ -137,11 +137,11 @@ Reply from 192.168.56.106: ttl=64 -> Linux
 ldapsearch -x -H ldap://<IP> -b "dc=metasploit,dc=local"
 ```
 
-![report](images/challenge6.png)
+![report](images/upchallenge6.png)
 
 ### Findings: <br>
 
-tengok balik nanti
+Not Allowed / Service Inactive
 
 ---
 
